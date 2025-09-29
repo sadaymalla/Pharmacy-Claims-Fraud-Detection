@@ -39,7 +39,7 @@ plotly
 
 Run preprocessing and anomaly detection on claims CSV:
 
-python main.py -- --etl --csv ./data/<name>.csv
+python main.py -- --etl --csv <name>.csv
 
 
 This will:
